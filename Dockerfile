@@ -1,4 +1,4 @@
-FROM es1501
+FROM lucapaganotti/es1501_docker
 LABEL name="nmarzi"
 LABEL version="1.0"
 LABEL decription="image for nmarzi"
