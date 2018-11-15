@@ -1,0 +1,6 @@
+<EIFFEL_DOCUMENT>
+	<PREFERENCE NAME="nmarzi.SensorListFile" VALUE="/root/.nmarzi/sensors.csv"/>
+	<PREFERENCE NAME="nmarzi.OutputFolder" VALUE="/root/.nmarzi/out/"/>
+	<PREFERENCE NAME="nmarzi.host" VALUE="127.0.0.1"/>
+	<PREFERENCE NAME="nmarzi.port" VALUE="9090"/>
+</EIFFEL_DOCUMENT>
